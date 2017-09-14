@@ -1,0 +1,5 @@
+module expat [system] {
+  header "include/expat.h"
+  link "expat"
+  export *
+}
